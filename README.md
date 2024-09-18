@@ -1,16 +1,7 @@
-# post_reader
+<img width="133" alt="30 3" src="https://github.com/user-attachments/assets/6b3f0f82-5fe5-4105-a96f-e22e5a7f29dc">
+<img width="133" alt="30 4" src="https://github.com/user-attachments/assets/7daf0fbc-91a5-4c9a-8138-d94c1ad7ac41">
 
-A new Flutter project.
+<img width="133" alt="30 5" src="https://github.com/user-attachments/assets/cf81aef0-dc67-44bf-8a0c-55e4f386b515">
 
-## Getting Started
+https://github.com/user-attachments/assets/003b9728-2031-4e33-ac2f-49d909b1da63
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
